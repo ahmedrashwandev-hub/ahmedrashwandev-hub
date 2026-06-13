@@ -27,8 +27,8 @@ Backend Developer specialized in building and optimizing scalable server-side ap
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ahmedrashwandev-hub/ahmedrashwandev-hub/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ahmedrashwandev-hub/ahmedrashwandev-hub/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ahmedrashwandev-hub/ahmedrashwandev-hub/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ahmedrashwandev-hub/ahmedrashwandev-hub/output/github-snake-light.svg">
   <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/ahmedrashwandev-hub/ahmedrashwandev-hub/output/github-contribution-grid-snake.svg">
 </picture>
 
