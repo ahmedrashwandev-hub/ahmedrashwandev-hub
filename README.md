@@ -1,3 +1,9 @@
+# Hello,  I'm Ahmed rashwan! 👋
+
+<div align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM25ucHp3bGNtYTN0cHd0eGc5Y2J3NTNzYzg0ZWllMDhib3o4em5nbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.webp" alt="Cover Picture">
+</div>
+
 # 💫 About Me:
 Backend Developer specialized in building and optimizing scalable server-side applications<br>using PHP and Laravel Framework. Experienced in developing RESTful APIs, database design<br>(MySQL, Eloquent ORM), and system integrations with a strong focus on performance, clean<br>code, and security best practices. Skilled in MVC architecture, OOP, and API development.<br>Adept at collaborating within Agile teams, debugging, and delivering maintainable backend<br>solutions. Additionally, familiar with frontend development using Angular for seamless full-<br>stack integration.
 
