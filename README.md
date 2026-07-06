@@ -1,5 +1,15 @@
-# Hello,  I'm Ahmed rashwan! 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Ahmed%20Rashwan&fontSize=70&animation=twinkling" alt="Ahmed Rashwan profile header" />
+</p>
+<!-- Title -->
+<h3 align="center">
+    <samp>
+        &gt; Hello, I am
+        <b><a target="_blank" href="https://www.linkedin.com/in/ahmed-rashwan-55a473209/">Ahmed rashwan! 👋</a></b>
+    </samp>
+</h3>
 
+<br>
 <div align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM25ucHp3bGNtYTN0cHd0eGc5Y2J3NTNzYzg0ZWllMDhib3o4em5nbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.webp" alt="Cover Picture">
 </div>
