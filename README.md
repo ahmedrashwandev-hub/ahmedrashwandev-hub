@@ -1,3 +1,5 @@
+<a name="top"></a>
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Ahmed%20Rashwan&fontSize=70&animation=twinkling" alt="Ahmed Rashwan profile header" />
 </p>
@@ -48,3 +50,16 @@ Backend Developer specialized in building and optimizing scalable server-side ap
   <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/ahmedrashwandev-hub/ahmedrashwandev-hub/output/github-contribution-grid-snake.svg">
 </picture>
 
+<p align="center">
+  <a href="#top">
+    <img src="https://img.shields.io/badge/Back%20to%20the%20Top-2d2d2d?style=for-the-badge&logo=github&logoColor=white" alt="Back to the Top"/>
+  </a>
+</p>
+
+<br>
+<br>
+<br>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=007edd&section=footer" />
+</p>
