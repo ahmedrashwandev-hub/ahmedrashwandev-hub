@@ -11,6 +11,13 @@
     </samp>
 </h3>
 
+<p align="center">
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1200&color=36BCF7&center=true&vCenter=true&width=900&lines=Software+Engineer;Laravel+-+PHP+Backend+Developer+|+Wordpress;Building+Scalable+and+Distributed+Systems;Working+Knowledge+of+Docker+%7C+CI+/+CD"
+    alt="Typing SVG"
+  />
+</p>
+   
 <br>
 <div align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM25ucHp3bGNtYTN0cHd0eGc5Y2J3NTNzYzg0ZWllMDhib3o4em5nbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.webp" alt="Cover Picture">
