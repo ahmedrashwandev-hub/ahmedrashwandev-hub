@@ -65,8 +65,8 @@
     <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100">
   </a>
 
-  <a href="mailto:ahmed.rashwan.dev@gmail.com?subject=Contact%20from%20GitHub" target="_blank">
-      <img src="images/Gmail.gif" width="100" alt="Gmail">
+  <a href="mailto:ahmed.rashwan.dev@gmail.com?subject=Hello%20Ahmed&body=السلام%20عليكم" target="_blank"> 
+      <img src="images/Gmail.gif" width="100" alt="Gmail"> 
   </a>
 
   <a href="https://www.instagram.com/ahmed__rashwan/" target="_blank">
