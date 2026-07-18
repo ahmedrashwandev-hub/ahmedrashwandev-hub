@@ -54,6 +54,11 @@
   <img src="https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle_mirrored.svg" width="100%">
 </p>
 
+<!--
+|--------------------------------------------------------------------------------------------
+|                               Start Socials Links
+|--------------------------------------------------------------------------------------------
+-->
 <h2 align="center"><img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"> Socials</h2>
 
 <p align="center">
@@ -78,7 +83,11 @@
   </a>
 </p>
 
-
+<!--
+|--------------------------------------------------------------------------------------------
+|                                  End Socials Links
+|--------------------------------------------------------------------------------------------
+-->
 
 
 [![divider_moving_neon_gradient](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_data_capsul.svg)](https://github.com/hiradEmami)
@@ -95,34 +104,29 @@
 <!-- Social -->
 <table width="100%" align="center">
 <tr>
-<td align="center">
-<a href="#">
-<strong>Visit my personal website </strong>
+    <td align="center">
+      <a href="#">
+        <strong>Visit my personal website </strong>
 <br />
 <br />
 <br />
 
 <p>
 
-<img alt="Globe" height="80" src="images/globe.gif">
+  <img alt="Globe" height="80" src="images/globe.gif">
 </a>
 </p>
 
 </td>
-
-
 <td align="center">
-<a href="#">
-<strong>You can see personal CV</strong>
+  <a href="https://drive.google.com/file/d/1uQd_b_70LVluYMmS5pLMwmv7L_rhAW4H/view?usp=sharing">
+    <strong>You can see personal CV</strong>
+  <br />
 <br />
-<br />
-
-
 <p>
 <img height="100" alt="Music" src="images/cv.gif"> 
 </a>
 </p>
-
 </td>
 </tr>
 </table>
