@@ -3,13 +3,20 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Ahmed%20Rashwan&fontSize=70&animation=twinkling" alt="Ahmed Rashwan profile header" />
 </p>
+
+<!-- "Hero" Header -->
+
+<div align="center">
+  <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
+</div>
+
 <!-- Title -->
-<h3 align="center">
+<h2 align="center">
     <samp>
         &gt; Hello, I am
         <b><a target="_blank" href="https://www.linkedin.com/in/ahmed-rashwan-55a473209/">Ahmed rashwan! 👋</a></b>
     </samp>
-</h3>
+</h2>
 
 <p align="center">
   <img
