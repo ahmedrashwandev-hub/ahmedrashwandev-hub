@@ -1,14 +1,15 @@
 <a name="top"></a>
-<div align="center">
-  <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
-</div>
 
-<p align="center">
-  <a target="_blank" href="https://www.linkedin.com/in/ahmed-rashwan-55a473209/">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hello%2C%20I%20am%20Ahmed%20Rashwan!%20%F0%9F%91%8B&fontSize=50&animation=twinkling" alt="Hello, I am Ahmed Rashwan" />
-  </a>
-</p>
 
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Ahmed%20Rashwan&fontSize=70&animation=twinkling" alt="Ahmed Rashwan profile header" /> </p>
+
+<!-- Title -->
+<h2 align="center">
+    <samp>
+        &gt; Hello, I am
+        <b><a target="_blank" href="https://www.linkedin.com/in/ahmed-rashwan-55a473209/">Ahmed rashwan! 👋</a></b>
+    </samp>
+</h2>
 
 <p align="center">
   <img
