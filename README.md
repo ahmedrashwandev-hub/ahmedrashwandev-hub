@@ -1,22 +1,14 @@
 <a name="top"></a>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Ahmed%20Rashwan&fontSize=70&animation=twinkling" alt="Ahmed Rashwan profile header" />
-</p>
-
-<!-- "Hero" Header -->
-
 <div align="center">
   <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
 </div>
 
-<!-- Title -->
-<h2 align="center">
-    <samp>
-        &gt; Hello, I am
-        <b><a target="_blank" href="https://www.linkedin.com/in/ahmed-rashwan-55a473209/">Ahmed rashwan! 👋</a></b>
-    </samp>
-</h2>
+<p align="center">
+  <a target="_blank" href="https://www.linkedin.com/in/ahmed-rashwan-55a473209/">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hello%2C%20I%20am%20Ahmed%20Rashwan!%20%F0%9F%91%8B&fontSize=50&animation=twinkling" alt="Hello, I am Ahmed Rashwan" />
+  </a>
+</p>
+
 
 <p align="center">
   <img
@@ -38,24 +30,19 @@
 
 <a name="about-me"></a>
 <h2 align="center"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me</h2>
+<br/>
 
-<table>
-  <tr>
-    <td width="70%" valign="top">
+<!--<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/> -->
+<!-- <img src="https://octodex.github.com/images/luchadortocat.png" width="300" align="right"> -->
+<img src="https://octodex.github.com/images/murakamicat.png" width="300" align="right">
+  
 
-- 🔧 **Backend Developer** specialized in building and optimizing scalable server-side applications using **PHP** and **Laravel Framework**.
-- 🧠 Experienced in developing **RESTful APIs**, **database design (MySQL, Eloquent ORM)**, and system integrations with a strong focus on performance, clean code, and security best practices.
-- 🧪 Skilled in **MVC architecture, OOP, and API development**. Adept at collaborating within Agile teams, debugging, and delivering maintainable backend solutions.
-- 🐧 Additionally, familiar with frontend development using **Angular** for seamless full-stack integration.
+- 🔭 &nbsp; Backend Developer** specialized in building and optimizing scalable server-side applications using **PHP** and **Laravel Framework**.
+- 🤝 &nbsp; Experienced in developing **RESTful APIs**, **database design (MySQL, Eloquent ORM)**, and system integrations with a strong focus on performance, clean code, and security best practices.
+- 👨🏻‍💻 &nbsp; Skilled in **MVC architecture, OOP, and API development**. Adept at collaborating within Agile teams, debugging, and delivering maintainable backend solutions.
+- 🎨 &nbsp; Additionally, familiar with frontend development using **Angular** for seamless full-stack integration.
+- 🐧 &nbsp; Comfortable working with Linux and the Command Line.
 
-  </td>
-  <td width="30%" align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="180">
-
-  </td>
-  </tr>
-</table>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle_mirrored.svg" width="100%">
