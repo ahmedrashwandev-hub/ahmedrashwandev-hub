@@ -139,14 +139,26 @@
 
 ## 📜 Certifications
 
-**One Million Prompters Certification**  
-*Issued by: Dubai Centre for Artificial Intelligence | Aug 2026*
+<table>
+  <tr>
+    <td align="center">
+      <strong>One Million Prompters Certification</strong><br>
+      Issued by: Dubai Centre for Artificial Intelligence | Aug 2026<br><br>
+      <a href="https://omp.dub.ai/certificate/PZ5OWRmKryMC">
+        <img src="./images/ahmed-rashwan-certificate.jpg" alt="One Million Prompters Certification" width="300">
+      </a>
+    </td>
 
-<a href="https://omp.dub.ai/certificate/PZ5OWRmKryMC">
+<td align="center">
+  <strong>Full Stack PHP Web Developer Certification</strong><br>
+  Issued by: Information Technology Institute (ITI) | July 2025<br><br>
+  <a href="https://i.ibb.co/zWj08Wdp/ITI-Certificate.jpg">
+    <img src="./images/ITI Certificate.jpeg" alt="Full Stack PHP Web Developer Certification" width="300">
+  </a>
+</td>
+  </tr>
+</table>
 
-<img src="./images/ahmed-rashwan-certificate.jpg" alt="One Million Prompters Certification" width="300">
-
-</a>
 </div>
 
 
