@@ -89,13 +89,6 @@
 
 
 
-
-
-
-
-
-[![divider_moving_neon_gradient](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_circuit_pulse_bar.svg)](https://github.com/hiradEmami)
-
 <!--
 |--------------------------------------------------------------------------------------------
 |                               Start To view personal website and CV
@@ -134,6 +127,31 @@
 |                               End To view personal website and CV
 |--------------------------------------------------------------------------------------------
 -->
+
+
+
+
+[![divider_moving_neon_gradient](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_circuit_pulse_bar.svg)](https://github.com/hiradEmami)
+
+
+
+<div align="center">
+
+## 📜 Certifications
+
+**One Million Prompters Certification**  
+*Issued by: Dubai Centre for Artificial Intelligence | Aug 2026*
+
+<a href="https://omp.dub.ai/certificate/PZ5OWRmKryMC">
+
+<img src="./images/ahmed-rashwan-certificate.jpg" alt="One Million Prompters Certification" width="300">
+
+</a>
+</div>
+
+
+
+
 
 [![divider_twin_serpant](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg)](https://github.com/hiradEmami)
 
