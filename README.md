@@ -112,7 +112,7 @@
 
 </td>
 <td align="center">
-  <a href="https://drive.google.com/file/d/1uQd_b_70LVluYMmS5pLMwmv7L_rhAW4H/view?usp=sharing">
+  <a href="https://drive.google.com/file/d/1CwqCpi-3n2OpPV9Ov18J8X12PB5ZdFqH/view?usp=sharing">
     <strong>You can see personal CV</strong>
   <br />
 <br />
