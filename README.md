@@ -37,13 +37,30 @@
 <!-- <img src="https://octodex.github.com/images/luchadortocat.png" width="300" align="right"> -->
 <img src="https://octodex.github.com/images/murakamicat.png" width="300" align="right">
   
+🔭 Backend Developer specialized in building and optimizing scalable server-side applications using PHP and Laravel Framework.
 
-- 🔭 &nbsp; Backend Developer** specialized in building and optimizing scalable server-side applications using **PHP** and **Laravel Framework**.
-- 🤝 &nbsp; Experienced in developing **RESTful APIs**, **database design (MySQL, Eloquent ORM)**, and system integrations with a strong focus on performance, clean code, and security best practices.
-- 👨🏻‍💻 &nbsp; Skilled in **MVC architecture, OOP, and API development**. Adept at collaborating within Agile teams, debugging, and delivering maintainable backend solutions.
-- 🎨 &nbsp; Additionally, familiar with frontend development using **Angular** for seamless full-stack integration.
-- 🐧 &nbsp; Comfortable working with Linux and the Command Line.
+🤝 I specialize in developing maintainable backend solutions using:<br>
+✓ PHP, OOP Programming<br>
+✓ Laravel Framework<br>
+✓ RESTful APIs<br>
+✓ MySQL Database<br>
+✓ Eloquent ORM<br>
+✓ MVC Architecture<br>
 
+👨🏻‍💻 I have strong experience in:<br>
+✓ Database Design and Optimization<br>
+✓ API Development & System Integrations<br>
+✓ Performance Optimization<br>
+✓ Debugging & Problem Solving<br>
+✓ Security Best Practices<br>
+✓ Clean & Maintainable Code<br>
+✓ Git & GitHub<br>
+
+🎨 I am also familiar with:<br>
+✓ Angular for Full-Stack Integration<br>
+✓ Agile Development & Team Collaboration<br>
+
+🐧Comfortable working with Linux and the Command Line.<br>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle_mirrored.svg" width="100%">
