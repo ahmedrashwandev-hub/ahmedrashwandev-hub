@@ -37,28 +37,25 @@
 <!-- <img src="https://octodex.github.com/images/luchadortocat.png" width="300" align="right"> -->
 <img src="https://octodex.github.com/images/murakamicat.png" width="300" align="right">
   
-🔭 Backend Developer specialized in building and optimizing scalable server-side applications using PHP and Laravel Framework.
+🔭 Backend Developer specialized in building and optimizing scalable server-side applications using:<br>
 
-🤝 I specialize in developing maintainable backend solutions using:<br>
-✓ PHP, OOP Programming<br>
-✓ Laravel Framework<br>
-✓ RESTful APIs<br>
-✓ MySQL Database<br>
-✓ Eloquent ORM<br>
-✓ MVC Architecture<br>
+&nbsp;&nbsp;&nbsp;&nbsp;✓ PHP,Laravel Framework, OOP Programming, SOLID Principles<br>
+&nbsp;&nbsp;&nbsp;&nbsp;✓ RESTful APIs<br>
+&nbsp;&nbsp;&nbsp;&nbsp;✓ MySQL Database, Eloquent ORM<br>
+&nbsp;&nbsp;&nbsp;&nbsp;✓ MVC Architecture<br>
+
+🔌 WordPress Development, Customization & Debugging
 
 👨🏻‍💻 I have strong experience in:<br>
-✓ Database Design and Optimization<br>
-✓ API Development & System Integrations<br>
-✓ Performance Optimization<br>
-✓ Debugging & Problem Solving<br>
-✓ Security Best Practices<br>
-✓ Clean & Maintainable Code<br>
-✓ Git & GitHub<br>
+&nbsp;&nbsp;&nbsp;&nbsp;✓ Database Design and Optimization<br>
+&nbsp;&nbsp;&nbsp;&nbsp;✓ API Development & System Integrations<br>
+&nbsp;&nbsp;&nbsp;&nbsp;✓ Performance Optimization<br>
+&nbsp;&nbsp;&nbsp;&nbsp;✓ Debugging, Problem Solving, Security Best Practices<br>
+&nbsp;&nbsp;&nbsp;&nbsp;✓ Git & GitHub, Clean & Maintainable Code<br>
 
 🎨 I am also familiar with:<br>
-✓ Angular for Full-Stack Integration<br>
-✓ Agile Development & Team Collaboration<br>
+&nbsp;&nbsp;&nbsp;&nbsp;✓ Angular for Full-Stack Integration<br>
+&nbsp;&nbsp;&nbsp;&nbsp;✓ Agile Development & Team Collaboration<br>
 
 🐧Comfortable working with Linux and the Command Line.<br>
 
